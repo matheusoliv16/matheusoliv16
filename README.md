@@ -23,7 +23,7 @@ Olá, me chamo Matheus de Oliveira. Sou estudante de Engenharia de Computação 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 />
 
 <img 
