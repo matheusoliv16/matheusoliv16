@@ -19,12 +19,13 @@ Olá, me chamo Matheus de Oliveira. Sou estudante de Engenharia de Computação 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Postgre SQL Database" 
+    title="Postgre SQL Database"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
 
 <img 
     align="left" 
