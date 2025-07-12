@@ -1,6 +1,6 @@
 # 🎲 Matheus de Oliveira
 
-**'Cientista de Dados'**
+**Cientista de Dados**
 
 Olá, me chamo Matheus de Oliveira. Sou estudante de Engenharia de Computação no IFCE e atuo na área de Ciência de Dados na empresa 3 Corações.
 
@@ -19,11 +19,11 @@ Olá, me chamo Matheus de Oliveira. Sou estudante de Engenharia de Computação 
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
 />
 
 <img 
